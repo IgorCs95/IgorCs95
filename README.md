@@ -1,16 +1,23 @@
-### Hi there 👋
+# Ola, Eu sou Igor! :octocat:
 
-<!--
-**IgorCs95/IgorCs95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/IgorCs95)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/igor-carvalho-36b673125)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+Desenvolvedor Java  :coffee:
+
+Curso: Analise e desenvolvimento de Sistemas
+
+IFPB - Capus Monteiro
+
+
+
+### Conhecimento nas Tecnologias
+  * Spring
+  * Node
+  * Angular
+  * React
+
+   
+
